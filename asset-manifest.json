@@ -1,14 +1,14 @@
 {
-  "main.css": "/NextWeek/static/css/main.3df51a13.chunk.css",
-  "main.js": "/NextWeek/static/js/main.5c014996.chunk.js",
-  "main.js.map": "/NextWeek/static/js/main.5c014996.chunk.js.map",
-  "runtime~main.js": "/NextWeek/static/js/runtime~main.35b50483.js",
-  "runtime~main.js.map": "/NextWeek/static/js/runtime~main.35b50483.js.map",
-  "static/js/2.c88c70e5.chunk.js": "/NextWeek/static/js/2.c88c70e5.chunk.js",
-  "static/js/2.c88c70e5.chunk.js.map": "/NextWeek/static/js/2.c88c70e5.chunk.js.map",
+  "main.css": "/NextWeek/static/css/main.20ae6ce9.chunk.css",
+  "main.js": "/NextWeek/static/js/main.1da15f8a.chunk.js",
+  "main.js.map": "/NextWeek/static/js/main.1da15f8a.chunk.js.map",
+  "runtime~main.js": "/NextWeek/static/js/runtime~main.50188ae0.js",
+  "runtime~main.js.map": "/NextWeek/static/js/runtime~main.50188ae0.js.map",
+  "static/js/2.f4c73c90.chunk.js": "/NextWeek/static/js/2.f4c73c90.chunk.js",
+  "static/js/2.f4c73c90.chunk.js.map": "/NextWeek/static/js/2.f4c73c90.chunk.js.map",
   "index.html": "/NextWeek/index.html",
-  "precache-manifest.51673dde9ffb37fcaf2c027c0708233e.js": "/NextWeek/precache-manifest.51673dde9ffb37fcaf2c027c0708233e.js",
+  "precache-manifest.4cc7e1ce1953ff0532b3c6ec218ee3d8.js": "/NextWeek/precache-manifest.4cc7e1ce1953ff0532b3c6ec218ee3d8.js",
   "service-worker.js": "/NextWeek/service-worker.js",
-  "static/css/main.3df51a13.chunk.css.map": "/NextWeek/static/css/main.3df51a13.chunk.css.map",
+  "static/css/main.20ae6ce9.chunk.css.map": "/NextWeek/static/css/main.20ae6ce9.chunk.css.map",
   "static/media/logo.svg": "/NextWeek/static/media/logo.ee7cd8ed.svg"
 }
