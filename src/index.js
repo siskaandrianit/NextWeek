@@ -4,6 +4,7 @@ import './Custom.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+ReactDOM.render(<App items={items} />, document.getElementById('root'));
 const items = [
 				{	color : 'Merah',
 					img  :'merah2.jpg',
@@ -23,5 +24,5 @@ const items = [
 				},
 				];
 
-ReactDOM.render(<App items={items} />, document.getElementById('root'));
+
 serviceWorker.register();
